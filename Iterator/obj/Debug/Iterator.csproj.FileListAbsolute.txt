@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\Iterator\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\Iterator\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\Iterator\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\Iterator\Iterator\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\Iterator\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\Iterator\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Users\DELL\Desktop\JORGE RUIZ\UP\Materias\7° SEMESTRE\Patrones de diseño\Iterator\Iterator\Iterator\obj\Debug\Iterator.pdb
